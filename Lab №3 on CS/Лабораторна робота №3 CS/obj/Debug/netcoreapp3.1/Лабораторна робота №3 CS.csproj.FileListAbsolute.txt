@@ -1,0 +1,14 @@
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\bin\Debug\netcoreapp3.1\Лабораторна робота №3 CS.exe
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\bin\Debug\netcoreapp3.1\Лабораторна робота №3 CS.deps.json
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\bin\Debug\netcoreapp3.1\Лабораторна робота №3 CS.runtimeconfig.json
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\bin\Debug\netcoreapp3.1\Лабораторна робота №3 CS.runtimeconfig.dev.json
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\bin\Debug\netcoreapp3.1\Лабораторна робота №3 CS.dll
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\bin\Debug\netcoreapp3.1\Лабораторна робота №3 CS.pdb
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.csproj.AssemblyReference.cache
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.AssemblyInfoInputs.cache
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.AssemblyInfo.cs
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.csproj.CoreCompileInputs.cache
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.dll
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.pdb
+C:\OP Labs\3\Лабораторна робота №3 CS\Лабораторна робота №3 CS\obj\Debug\netcoreapp3.1\Лабораторна робота №3 CS.genruntimeconfig.cache
