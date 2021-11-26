@@ -1,0 +1,14 @@
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\bin\Debug\netcoreapp3.1\Lab6 on CS.exe
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\bin\Debug\netcoreapp3.1\Lab6 on CS.deps.json
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\bin\Debug\netcoreapp3.1\Lab6 on CS.runtimeconfig.json
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\bin\Debug\netcoreapp3.1\Lab6 on CS.runtimeconfig.dev.json
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\bin\Debug\netcoreapp3.1\Lab6 on CS.dll
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\bin\Debug\netcoreapp3.1\Lab6 on CS.pdb
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.csproj.AssemblyReference.cache
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.AssemblyInfoInputs.cache
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.AssemblyInfo.cs
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.csproj.CoreCompileInputs.cache
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.dll
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.pdb
+C:\OP Labs\6\Lab6 on CS\Lab6 on CS\obj\Debug\netcoreapp3.1\Lab6 on CS.genruntimeconfig.cache
