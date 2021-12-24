@@ -1,0 +1,14 @@
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\bin\Debug\netcoreapp3.1\Lab 8 on CS.exe
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\bin\Debug\netcoreapp3.1\Lab 8 on CS.deps.json
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\bin\Debug\netcoreapp3.1\Lab 8 on CS.runtimeconfig.json
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\bin\Debug\netcoreapp3.1\Lab 8 on CS.runtimeconfig.dev.json
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\bin\Debug\netcoreapp3.1\Lab 8 on CS.dll
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\bin\Debug\netcoreapp3.1\Lab 8 on CS.pdb
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.csproj.AssemblyReference.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.AssemblyInfoInputs.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.AssemblyInfo.cs
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.csproj.CoreCompileInputs.cache
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.dll
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.pdb
+C:\Users\FARM_KRIPOV\source\repos\Lab 8 on CS\Lab 8 on CS\obj\Debug\netcoreapp3.1\Lab 8 on CS.genruntimeconfig.cache
